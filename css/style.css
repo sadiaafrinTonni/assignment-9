@@ -1,0 +1,235 @@
+*{
+	padding: 0px;
+	margin: 0px;
+
+}
+body{
+	font-size: 14px;
+	line-height: 24px;
+font-family: 'Bebas Neue', cursive !important;
+
+}
+img{
+	max-width: 100%;
+	height: auto;
+
+}
+h1, h2, h3, h4, h5, h6{
+font-family: 'Alfa Slab One', cursive !important;
+
+}
+a{
+	text-decoration: none;
+
+}
+a:hover{
+	text-decoration: none;
+
+}
+.header{
+	width: 100%;
+	padding: 20px 0px;
+    background: url("../image/headerbg.png" );
+    background-position:center top ;
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+.menu{
+	width: 100%;
+
+}
+.menu .info{
+text-align: right;
+
+}
+.menu .info p img{
+	margin: 0px 10px 0px 0px;
+
+}
+.menu .info p{
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 24px;
+	font-weight: 700;
+	color:#3d2514 ;
+    letter-spacing: 2px;
+    margin: 0px 18px 0px 0px;
+
+}
+.menu .navbar-nav .nav-item .nav-link{
+font-size: 16px;
+letter-spacing: 2px;
+font-weight: 600;
+color:#3d2514 ;
+margin: 0px 0px 0px 30px;
+transition: 1s;
+
+}
+.menu .navbar-nav .nav-item .nav-link:hover{
+	color: #bf2222;
+
+}
+.banner{
+	width: 100%;
+	padding: 40px 0px;
+
+}
+.banner h4{
+	font-family: 'Bebas Neue', cursive !important;
+
+	font-size: 22px;
+	line-height: 32px;
+	font-weight: 200;
+	text-transform: uppercase;
+    color: #3d2514;
+    margin: 70px 0px 20px;
+
+
+}
+.banner h4 span{
+	width: ;
+	padding: 10px;
+	border: 3px dashed #3d2514;
+
+
+}
+.banner h1{
+font-size: 110px;
+font-weight: 700;
+line-height: 120px;
+text-shadow: 1px 4px 10px #ccc;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+}
+.banner h3{
+font-size: 70px;
+font-weight: 700;
+line-height: 80px;
+text-shadow: 1px 4px 10px #ccc;
+letter-spacing: 2px;
+text-transform: uppercase;
+}
+.popular{
+	width: 100%;
+	padding: 80px 0px;
+
+}
+.popular .card{
+	margin: 0px 0px 35px;
+	border: 1px solid #fff;
+	background: #fff;
+
+
+}
+.popular .card .card-img-overlay h5{
+	font-size: 25px;
+	font-weight: 700;
+	line-height: 35px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	font-family: 'Bebas Neue', cursive !important;
+
+}
+.popular .card .card-img-overlay h3{
+	font-size: 25px;
+	font-weight: 700;
+	line-height: 35px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	font-family: 'Bebas Neue', cursive !important;
+
+}
+.choose{
+	width: 100%;
+	padding: 80px 0px;
+
+}
+.choose .title{
+	width: 100%;
+	padding: 0px 0px 80px;
+	text-align: center;
+
+}
+.choose .title h4{
+font-size: 36px;
+	font-weight: 400;
+	line-height: 46px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	font-family: 'Bebas Neue', cursive !important;
+color: #fff;
+margin: 0px 0px 50px;
+
+
+}
+.choose .title h4 span{
+	padding: 10px;
+	background: #ffc045;
+
+}
+.choose .title h2{
+font-size: 70px;
+	font-weight: 700;
+	line-height: 80px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	color: #3d2514;
+	
+
+}
+.choose .title p{
+font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+	
+	text-transform: uppercase;
+	color: #3d2514;
+	font-family: 'Montserrat', sans-serif;
+
+	
+}
+.inner-choose{
+width: 100%;
+padding: 30px 40px ;
+text-align: center;
+
+}
+.inner-choose img{
+width: 100%;
+margin: 0px 0px 10px;
+
+}
+.inner-choose h3{
+font-size: 32px;
+	font-weight: 400;
+	line-height:42px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	font-family: 'Bebas Neue', cursive !important;
+color: #3d2514;
+}
+.inner-choose p{
+font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+	
+	text-transform: uppercase;
+	color: #3d2514;
+	font-family: 'Montserrat', sans-serif;
+
+	
+}
+.inner-choose .btn-danger{
+	padding: 15px 45px;
+	font-size: 14px;
+	font-weight: 400;
+	text-transform: 400;
+	color: #fff;
+	border-radius: 0px;
+
+}
+.inner-choose .btn-danger:hover{
+	color: #eee;
+	
+}
